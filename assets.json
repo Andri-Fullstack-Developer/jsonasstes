@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "message": null,
+  "datas": {
+    "foto": {
+      "web": [
+        {
+          "img": "/public/Galery/img/web/Web (1).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (2).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (3).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (4).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (5).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (6).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (7).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (8).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (9).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (10).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (11).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (12).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (13).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (14).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (15).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (16).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (17).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (18).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (19).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (20).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (21).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (22).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (23).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (24).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (25).png",
+          "type": "All Web"
+        },
+        {
+          "img": "/public/Galery/img/web/Web (26).png",
+          "type": "All Web"
+        }
+      ],
+      "mobile": [
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (1).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (2).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (3).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (4).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (5).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (6).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (7).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (8).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (9).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (10).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (11).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (12).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (13).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (14).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (15).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (16).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (17).png",
+          "type": "All Mobile"
+        },
+        {
+          "img": "/public/Galery/img/Mobile/Mobile (18).png",
+          "type": "All Mobile"
+        }
+      ],
+      "camera": [
+        {
+          "img": "/public/Galery/img/Camera/Camera (1).png",
+          "type": "All camera"
+        },
+        {
+          "img": "/public/Galery/img/Camera/Camera (2).png",
+          "type": "All camera"
+        },
+        {
+          "img": "/public/Galery/img/Camera/Camera (3).png",
+          "type": "All camera"
+        },
+        {
+          "img": "/public/Galery/img/Camera/Camera (4).png",
+          "type": "All camera"
+        },
+        {
+          "img": "/public/Galery/img/Camera/Camera (5).png",
+          "type": "All camera"
+        },
+        {
+          "img": "/public/Galery/img/Camera/Camera (6).png",
+          "type": "All camera"
+        }
+      ]
+    }
+  }
+}
